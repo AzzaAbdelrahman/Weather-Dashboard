@@ -1,4 +1,3 @@
-//Global Variables
 var APIKey = "f98c2c99f83cc6f364b04a6a776de41f";
 
 var searchButton = $('#search-button');
@@ -14,7 +13,6 @@ var savedSearchRender = searchHistory;
 var today = moment();
 $("#current-date").text(today.format("MMM DD, YYYY"));
 
-//API test: successful link
 //fetch today's weather for given city and render to page
 function getApi(cityName) {
     $('#current-weather').empty('');
