@@ -33,5 +33,7 @@ When a user clicks on a city in the search history they are again presented with
 # Image
 ![Alt text](<Screenshot 2023-12-21 at 18.02.26.png>)
 
+# link to deployed web: https://github.com/AzzaAbdelrahman/Weather-Dashboard/deployments/github-pages
+# link to repo: https://github.com/AzzaAbdelrahman/Weather-Dashboard
 
 
